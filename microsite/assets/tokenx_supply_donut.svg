@@ -1,0 +1,37 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#FFFFFF"/>
+  <text x="64" y="96" font-family="Inter, Helvetica, Arial" font-size="28" font-weight="600" fill="#0E0E0E">tokenX Supply Allocation</text>
+  <text x="64" y="128" font-family="Inter, Helvetica, Arial" font-size="16" fill="#6B6B6B">Fixed supply — 10,000,000,000 tokenX</text>
+
+  <g transform="translate(400,400)">
+    <circle r="220" fill="none" stroke="#E6E6E6" stroke-width="110"/>
+    <circle r="220" fill="none" stroke="#0E0E0E" stroke-width="110" stroke-dasharray="552 1380" transform="rotate(-90)"/>
+    <circle r="220" fill="none" stroke="#7A0F14" stroke-width="110" stroke-dasharray="276 1380" transform="rotate(54)"/>
+    <circle r="220" fill="none" stroke="#6B6B6B" stroke-width="110" stroke-dasharray="207 1380" transform="rotate(126)"/>
+    <circle r="220" fill="none" stroke="#6B6B6B" stroke-opacity="0.6" stroke-width="110" stroke-dasharray="138 1380" transform="rotate(180)"/>
+    <circle r="220" fill="none" stroke="#E6E6E6" stroke-width="110" stroke-dasharray="138 1380" transform="rotate(216)"/>
+    <circle r="220" fill="none" stroke="#F5F5F5" stroke-width="110" stroke-dasharray="69 1380" transform="rotate(252)"/>
+    <text y="8" text-anchor="middle" font-family="Inter, Helvetica, Arial" font-size="22" font-weight="700" fill="#0E0E0E">10B</text>
+    <text y="32" text-anchor="middle" font-family="Inter, Helvetica, Arial" font-size="14" fill="#6B6B6B">Total supply</text>
+  </g>
+
+  <g font-family="Inter, Helvetica, Arial" font-size="14" fill="#0E0E0E">
+    <rect x="720" y="220" width="16" height="16" fill="#0E0E0E"/>
+    <text x="744" y="234">Community &amp; Ecosystem — 40%</text>
+
+    <rect x="720" y="252" width="16" height="16" fill="#7A0F14"/>
+    <text x="744" y="266">Foundation Treasury — 20%</text>
+
+    <rect x="720" y="284" width="16" height="16" fill="#6B6B6B"/>
+    <text x="744" y="298">Contributors / Core Team — 15%</text>
+
+    <rect x="720" y="316" width="16" height="16" fill="#6B6B6B" fill-opacity="0.6"/>
+    <text x="744" y="330">Early Backers — 10%</text>
+
+    <rect x="720" y="348" width="16" height="16" fill="#E6E6E6"/>
+    <text x="744" y="362">Public Liquidity — 10%</text>
+
+    <rect x="720" y="380" width="16" height="16" fill="#F5F5F5" stroke="#0E0E0E"/>
+    <text x="744" y="394">Strategic Partners — 5%</text>
+  </g>
+</svg>

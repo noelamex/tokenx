@@ -1,0 +1,25 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="#F5F5F5"/>
+  <text x="64" y="96" font-family="Inter, Helvetica, Arial" font-size="32" font-weight="600" fill="#0E0E0E">tokenX — How it works</text>
+  <text x="64" y="132" font-family="Inter, Helvetica, Arial" font-size="16" fill="#6B6B6B">tokenX sits at the center — usage and participation orbit it, creating network gravity.</text>
+
+  <!-- Orbits -->
+  <g stroke="#0E0E0E" stroke-opacity="0.12" stroke-width="2" fill="none">
+    <circle cx="960" cy="540" r="180"/>
+    <circle cx="960" cy="540" r="300"/>
+    <circle cx="960" cy="540" r="420"/>
+  </g>
+
+  <!-- Core -->
+  <circle cx="960" cy="540" r="120" fill="#0E0E0E"/>
+  <circle cx="960" cy="540" r="36" fill="#7A0F14"/>
+  <text x="960" y="548" text-anchor="middle" font-family="Inter, Helvetica, Arial" font-size="20" font-weight="700" fill="#FFFFFF">tokenX</text>
+
+  <!-- Nodes -->
+  <g font-family="Inter, Helvetica, Arial" font-size="14" fill="#0E0E0E">
+    <circle cx="960" cy="360" r="24" fill="#0E0E0E"/><text x="960" y="320" text-anchor="middle">Builders</text>
+    <circle cx="1260" cy="540" r="24" fill="#0E0E0E"/><text x="1260" y="600" text-anchor="middle">Events</text>
+    <circle cx="960" cy="840" r="24" fill="#0E0E0E"/><text x="960" y="900" text-anchor="middle">Tourism</text>
+    <circle cx="660" cy="540" r="24" fill="#0E0E0E"/><text x="660" y="600" text-anchor="middle">Diaspora</text>
+  </g>
+</svg>
